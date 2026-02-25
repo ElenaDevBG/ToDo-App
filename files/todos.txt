@@ -1,10 +1,9 @@
-New thing
-music
+Good ordermusic
 Icy
 Dog
 to do
-fix the PCadd the carNewsTest new line
-Test new line 2
+Clean the house
+Buy plants
 something
 other thing
 Buy a camera
@@ -14,3 +13,6 @@ Icy the cat 2
 Hello Icy
 Second attempt
 Opala
+Clean the house
+My newest todo is added
+New to-do
