@@ -7,3 +7,6 @@ Icy the cat 2
 Hello Icy
 My newest todo is added
 Improve the app
+Go to DM 2
+Go to DM 3
+Go to DM
